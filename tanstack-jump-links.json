@@ -1,0 +1,2486 @@
+[
+  {
+    "url": "https://tanstack.com/start/latest",
+    "heading": "TanStackStartRC"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework",
+    "heading": "Supported TanStack Start Frameworks"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/contributors",
+    "heading": "TanStack Start Maintainers and Contributors"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/npm-stats",
+    "heading": ""
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/overview",
+    "heading": "TanStack Start Overview"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/overview#dependencies",
+    "heading": "Dependencies#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/overview#should-i-use-tanstack-start-or-just-tanstack-router",
+    "heading": "Should I use TanStack Start or just TanStack Router?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/overview#are-there-limitations",
+    "heading": "Are there limitations?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/overview#how-is-tanstack-start-funded",
+    "heading": "How is TanStack Start funded?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/overview#ready-to-get-started",
+    "heading": "Ready to get started?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started",
+    "heading": "Getting Started"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#start-a-new-project",
+    "heading": "Start a new project#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#use-tanstack-builder",
+    "heading": "Use TanStack Builder#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#use-the-cli",
+    "heading": "Use the CLI#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#start-from-an-example",
+    "heading": "Start from an example#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#build-from-scratch",
+    "heading": "Build from scratch#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#migrate-an-existing-project-from-another-framework",
+    "heading": "Migrate an existing project from another framework#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#next-steps",
+    "heading": "Next Steps#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/getting-started#other-router-examples",
+    "heading": "Other Router Examples#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch",
+    "heading": "Build a Project from Scratch"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch#typescript-configuration",
+    "heading": "TypeScript Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch#install-dependencies",
+    "heading": "Install Dependencies#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch#update-configuration-files",
+    "heading": "Update Configuration Files#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch#add-the-basic-templating",
+    "heading": "Add the Basic Templating#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch#the-router-configuration",
+    "heading": "The Router Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch#the-root-of-your-application",
+    "heading": "The Root of Your Application#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/build-from-scratch#writing-your-first-route",
+    "heading": "Writing Your First Route#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison",
+    "heading": "Comparison | TanStack Start vs Next.js vs React Router"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#-tanstack-router-comparison-vs-react-router--nextjs-",
+    "heading": "📖 TanStack Router Comparison vs React Router / Next.js →#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#key-philosophical-differences",
+    "heading": "Key Philosophical Differences#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#tanstack-start",
+    "heading": "TanStack Start#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#nextjs",
+    "heading": "Next.js#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#react-router-v7-framework-mode",
+    "heading": "React Router (v7 Framework Mode)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#when-to-choose-each-framework",
+    "heading": "When to Choose Each Framework#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#choose-tanstack-start-if-you",
+    "heading": "Choose TanStack Start if you:#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#choose-nextjs-if-you",
+    "heading": "Choose Next.js if you:#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#choose-react-router-if-you",
+    "heading": "Choose React Router if you:#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#feature-deep-dives",
+    "heading": "Feature Deep Dives#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#built-in-client-side-caching",
+    "heading": "Built-in Client-Side Caching#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#server-functions-vs-server-actions",
+    "heading": "Server Functions vs Server Actions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#middleware-architecture",
+    "heading": "Middleware Architecture#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#deployment-flexibility",
+    "heading": "Deployment Flexibility#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#react-server-components-rsc",
+    "heading": "React Server Components (RSC)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#performance-considerations",
+    "heading": "Performance Considerations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#production-performance",
+    "heading": "Production Performance#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#development-performance",
+    "heading": "Development Performance#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#community-and-ecosystem",
+    "heading": "Community and Ecosystem#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/comparison#maturity",
+    "heading": "Maturity#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs",
+    "heading": "TanStack Start vs Next.js"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#two-different-visions-of-react",
+    "heading": "Two Different Visions of React#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#nextjs-the-platform-play",
+    "heading": "Next.js: The Platform Play#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#tanstack-start-the-developer-first-play",
+    "heading": "TanStack Start: The Developer-First Play#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#the-mental-model-gap",
+    "heading": "The Mental Model Gap#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#both-ssr---different-defaults-for-interactivity",
+    "heading": "Both SSR - Different Defaults for Interactivity#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#implicit-vs-explicit",
+    "heading": "Implicit vs Explicit#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#architecture-deep-dive",
+    "heading": "Architecture Deep Dive#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#the-build-pipeline",
+    "heading": "The Build Pipeline#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#the-runtime",
+    "heading": "The Runtime#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#the-type-system",
+    "heading": "The Type System#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#routing",
+    "heading": "Routing#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#the-caching-question",
+    "heading": "The Caching Question#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#nextjs-implicit-and-server-side",
+    "heading": "Next.js: Implicit and Server-Side#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#tanstack-start-rscs-are-just-data",
+    "heading": "TanStack Start: RSCs Are Just Data#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#the-bottom-line-on-rscs",
+    "heading": "The Bottom Line on RSCs#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#server-functions-vs-server-actions",
+    "heading": "Server Functions vs Server Actions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#nextjs-server-actions",
+    "heading": "Next.js Server Actions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#tanstack-server-functions",
+    "heading": "TanStack Server Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#where-nextjs-has-the-advantage",
+    "heading": "Where Next.js Has the Advantage#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#what-start-does-better",
+    "heading": "What Start Does Better#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/start-vs-nextjs#summary",
+    "heading": "Summary#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js",
+    "heading": "Migrate from Next.js"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#step-by-step-basics",
+    "heading": "Step-by-Step (Basics)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#prerequisites",
+    "heading": "Prerequisites#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#1-remove-nextjs",
+    "heading": "1. Remove Next.js#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#2-install-required-dependencies",
+    "heading": "2. Install Required Dependencies#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#3-update-project-configuration",
+    "heading": "3. Update Project Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#4-adapt-the-root-layout",
+    "heading": "4. Adapt the Root Layout#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#5-adapt-the-home-page",
+    "heading": "5. Adapt the Home Page#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#6-are-we-migrated-yet",
+    "heading": "6. Are we migrated yet?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#7-verify-the-migration",
+    "heading": "7. Verify the Migration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#next-steps-advanced",
+    "heading": "Next Steps (Advanced)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#routing-concepts",
+    "heading": "Routing Concepts#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#dynamic-and-catch-all-routes",
+    "heading": "Dynamic and Catch-All Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#links",
+    "heading": "Links#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#images",
+    "heading": "Images#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#server-actions-functions",
+    "heading": "Server Actions Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#server-routes-handlers",
+    "heading": "Server Routes Handlers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#fonts",
+    "heading": "Fonts#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/migrate-from-next-js#fetching-data",
+    "heading": "Fetching Data#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing",
+    "heading": "Routing"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#the-router",
+    "heading": "The Router#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#file-based-routing",
+    "heading": "File-Based Routing#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#the-root-route",
+    "heading": "The Root Route#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#the-headcontent-component",
+    "heading": "The HeadContent Component#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#the-outlet-component",
+    "heading": "The Outlet Component#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#the-scripts-component",
+    "heading": "The Scripts Component#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#route-tree-generation",
+    "heading": "Route Tree Generation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#nested-routing",
+    "heading": "Nested Routing#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#types-of-routes",
+    "heading": "Types of Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#route-tree-configuration",
+    "heading": "Route Tree Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#creating-file-routes",
+    "heading": "Creating File Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#defining-routes",
+    "heading": "Defining Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/routing#this-is-just-the-start",
+    "heading": "This is just the \"start\"#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model",
+    "heading": "Execution Model"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#core-principle-isomorphic-by-default",
+    "heading": "Core Principle: Isomorphic by Default#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#the-execution-boundary",
+    "heading": "The Execution Boundary#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#server-environment",
+    "heading": "Server Environment#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#client-environment",
+    "heading": "Client Environment#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#execution-control-apis",
+    "heading": "Execution Control APIs#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#server-only-execution",
+    "heading": "Server-Only Execution#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#client-only-execution",
+    "heading": "Client-Only Execution#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#environment-specific-implementations",
+    "heading": "Environment-Specific Implementations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#architectural-patterns",
+    "heading": "Architectural Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#progressive-enhancement",
+    "heading": "Progressive Enhancement#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#environment-aware-storage",
+    "heading": "Environment-Aware Storage#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#rpc-vs-direct-function-calls",
+    "heading": "RPC vs Direct Function Calls#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#common-anti-patterns",
+    "heading": "Common Anti-Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#environment-variable-exposure",
+    "heading": "Environment Variable Exposure#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#incorrect-loader-assumptions",
+    "heading": "Incorrect Loader Assumptions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#hydration-mismatches",
+    "heading": "Hydration Mismatches#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#manual-vs-api-driven-environment-detection",
+    "heading": "Manual vs API-Driven Environment Detection#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#architecture-decision-framework",
+    "heading": "Architecture Decision Framework#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#security-considerations",
+    "heading": "Security Considerations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#bundle-analysis",
+    "heading": "Bundle Analysis#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#environment-variable-strategy",
+    "heading": "Environment Variable Strategy#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/execution-model#error-boundaries",
+    "heading": "Error Boundaries#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns",
+    "heading": "Code Execution Patterns"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#quick-start",
+    "heading": "Quick Start#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#implementation-patterns",
+    "heading": "Implementation Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#progressive-enhancement",
+    "heading": "Progressive Enhancement#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#environment-aware-storage",
+    "heading": "Environment-Aware Storage#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#common-problems",
+    "heading": "Common Problems#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#environment-variable-exposure",
+    "heading": "Environment Variable Exposure#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#incorrect-loader-assumptions",
+    "heading": "Incorrect Loader Assumptions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#hydration-mismatches",
+    "heading": "Hydration Mismatches#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#production-checklist",
+    "heading": "Production Checklist#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/code-execution-patterns#related-resources",
+    "heading": "Related Resources#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection",
+    "heading": "Import Protection"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#how-it-works",
+    "heading": "How It Works#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#default-rules",
+    "heading": "Default Rules#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#file-markers",
+    "heading": "File Markers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#behavior-modes",
+    "heading": "Behavior Modes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#configuring-deny-rules",
+    "heading": "Configuring Deny Rules#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#checking-third-party-packages",
+    "heading": "Checking third-party packages#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#scoping-and-exclusions",
+    "heading": "Scoping and Exclusions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#reading-violation-traces",
+    "heading": "Reading Violation Traces#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#server-only-code-in-the-client",
+    "heading": "Server-only code in the client#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#client-only-code-on-the-server",
+    "heading": "Client-only code on the server#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#how-to-read-the-output",
+    "heading": "How to read the output#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#common-pitfall-why-some-imports-stay-alive",
+    "heading": "Common Pitfall: Why Some Imports Stay Alive#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#false-positives-dev-vs-build",
+    "heading": "False Positives: Dev vs Build#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#the-onviolation-callback",
+    "heading": "The onViolation Callback#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#disabling-import-protection",
+    "heading": "Disabling Import Protection#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/import-protection#full-configuration-reference",
+    "heading": "Full Configuration Reference#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables",
+    "heading": "Environment Variables"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#quick-start",
+    "heading": "Quick Start#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#environment-variable-contexts",
+    "heading": "Environment Variable Contexts#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#server-side-context-server-functions--api-routes",
+    "heading": "Server-Side Context (Server Functions & API Routes)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#client-side-context-components--client-code",
+    "heading": "Client-Side Context (Components & Client Code)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#environment-file-setup",
+    "heading": "Environment File Setup#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#file-hierarchy-loaded-in-order",
+    "heading": "File Hierarchy (Loaded in Order)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#example-setup",
+    "heading": "Example Setup#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#common-patterns",
+    "heading": "Common Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#database-configuration",
+    "heading": "Database Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#authentication-provider-setup",
+    "heading": "Authentication Provider Setup#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#external-api-integration",
+    "heading": "External API Integration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#feature-flags-and-configuration",
+    "heading": "Feature Flags and Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#type-safety",
+    "heading": "Type Safety#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#typescript-declarations",
+    "heading": "TypeScript Declarations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#runtime-validation",
+    "heading": "Runtime Validation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#security-best-practices",
+    "heading": "Security Best Practices#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#1-never-expose-secrets-to-client",
+    "heading": "1. Never Expose Secrets to Client#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#2-use-appropriate-prefixes",
+    "heading": "2. Use Appropriate Prefixes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#3-validate-required-variables",
+    "heading": "3. Validate Required Variables#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#production-checklist",
+    "heading": "Production Checklist#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#common-problems",
+    "heading": "Common Problems#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#environment-variable-is-undefined",
+    "heading": "Environment Variable is Undefined#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#runtime-client-environment-variables-in-production",
+    "heading": "Runtime Client Environment Variables in Production#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#variable-not-updating",
+    "heading": "Variable Not Updating#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#typescript-errors",
+    "heading": "TypeScript Errors#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#security-secret-exposed-to-client",
+    "heading": "Security: Secret Exposed to Client#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#build-errors-in-production",
+    "heading": "Build Errors in Production#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#server-build-configuration",
+    "heading": "Server Build Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#static-node_env-replacement",
+    "heading": "Static NODE_ENV Replacement#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#configuring-static-replacement",
+    "heading": "Configuring Static Replacement#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#when-to-disable-static-replacement",
+    "heading": "When to Disable Static Replacement#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-variables#related-resources",
+    "heading": "Related Resources#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions",
+    "heading": "Server Functions"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#what-are-server-functions",
+    "heading": "What are Server Functions?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#basic-usage",
+    "heading": "Basic Usage#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#where-to-call-server-functions",
+    "heading": "Where to Call Server Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#file-organization",
+    "heading": "File Organization#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#example",
+    "heading": "Example#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#static-imports-are-safe",
+    "heading": "Static Imports Are Safe#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#parameters--validation",
+    "heading": "Parameters & Validation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#basic-parameters",
+    "heading": "Basic Parameters#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#validation-with-zod",
+    "heading": "Validation with Zod#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#form-data",
+    "heading": "Form Data#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#error-handling--redirects",
+    "heading": "Error Handling & Redirects#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#basic-errors",
+    "heading": "Basic Errors#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#redirects",
+    "heading": "Redirects#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#not-found",
+    "heading": "Not Found#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#advanced-topics",
+    "heading": "Advanced Topics#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#server-context--request-handling",
+    "heading": "Server Context & Request Handling#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#streaming",
+    "heading": "Streaming#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#raw-responses",
+    "heading": "Raw Responses#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#progressive-enhancement",
+    "heading": "Progressive Enhancement#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#middleware",
+    "heading": "Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#static-server-functions",
+    "heading": "Static Server Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#server-components",
+    "heading": "Server Components#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#request-cancellation",
+    "heading": "Request Cancellation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-functions#function-id-generation-for-production-build",
+    "heading": "Function ID generation for production build#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components",
+    "heading": "Server Components"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#setup",
+    "heading": "Setup#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#1-install-the-vite-rsc-plugin",
+    "heading": "1. Install the Vite RSC Plugin#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#2-configure-vite",
+    "heading": "2. Configure Vite#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#quick-start",
+    "heading": "Quick Start#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#renderable-no-slots",
+    "heading": "Renderable (no slots)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#composite-slots",
+    "heading": "Composite (slots)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#why-server-components",
+    "heading": "Why Server Components?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#passing-props-and-composition",
+    "heading": "Passing Props and Composition#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#children-slots",
+    "heading": "Children Slots#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#render-props",
+    "heading": "Render Props#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#component-props",
+    "heading": "Component Props#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#caching",
+    "heading": "Caching#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#tanstack-query",
+    "heading": "TanStack Query#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#invalidation",
+    "heading": "Invalidation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#combining-with-selective-ssr",
+    "heading": "Combining with Selective SSR#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#example-ssr-data-only",
+    "heading": "Example: ssr: 'data-only'#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#example-ssr-false",
+    "heading": "Example: ssr: false#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#advanced-patterns",
+    "heading": "Advanced Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#multiple-server-components-in-parallel",
+    "heading": "Multiple Server Components in Parallel#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#bundling-multiple-components",
+    "heading": "Bundling Multiple Components#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#deferred-component-loading",
+    "heading": "Deferred Component Loading#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#suspense-inside-server-components",
+    "heading": "Suspense Inside Server Components#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#streaming-with-async-generators",
+    "heading": "Streaming with Async Generators#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#error-handling",
+    "heading": "Error Handling#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#route-level-errors",
+    "heading": "Route Level Errors#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#component-level-errors",
+    "heading": "Component Level Errors#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#tips",
+    "heading": "Tips#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#using-reactcache",
+    "heading": "Using React.cache#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#router-links-in-server-components",
+    "heading": "Router Links in Server Components#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#css-in-server-components",
+    "heading": "CSS in Server Components#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#rules-and-limitations",
+    "heading": "Rules and Limitations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#slots-are-opaque-on-the-server",
+    "heading": "Slots are opaque on the server#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#render-prop-arguments-must-be-serializable",
+    "heading": "Render prop arguments must be serializable#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#how-it-works",
+    "heading": "How It Works#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#current-status",
+    "heading": "Current Status#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#low-level-flight-stream-apis",
+    "heading": "Low-Level Flight Stream APIs#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-components#example",
+    "heading": "Example#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/static-server-functions",
+    "heading": "Static Server Functions"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/static-server-functions#what-are-static-server-functions",
+    "heading": "What are Static Server Functions?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions",
+    "heading": "Environment Functions"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#what-are-environment-functions",
+    "heading": "What Are Environment Functions?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#isomorphic-functions",
+    "heading": "Isomorphic Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#complete-implementation",
+    "heading": "Complete Implementation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#partial-implementation-server",
+    "heading": "Partial Implementation (Server)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#partial-implementation-client",
+    "heading": "Partial Implementation (Client)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#no-implementation",
+    "heading": "No Implementation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#envonly-functions",
+    "heading": "envOnly Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#createserveronlyfn",
+    "heading": "createServerOnlyFn#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#createclientonlyfn",
+    "heading": "createClientOnlyFn#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/environment-functions#tree-shaking",
+    "heading": "Tree Shaking#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware",
+    "heading": "Middleware"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#what-is-middleware",
+    "heading": "What is Middleware?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#what-kinds-of-things-can-i-do-with-middleware",
+    "heading": "What kinds of things can I do with Middleware?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#middleware-types",
+    "heading": "Middleware Types#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#key-differences",
+    "heading": "Key Differences#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#core-concepts",
+    "heading": "Core Concepts#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#middleware-composition",
+    "heading": "Middleware Composition#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#progressing-the-middleware-chain",
+    "heading": "Progressing the Middleware Chain#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#request-middleware",
+    "heading": "Request Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#available-methods",
+    "heading": "Available Methods#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#the-server-method",
+    "heading": "The .server method#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#using-request-middleware-with-server-routes",
+    "heading": "Using Request Middleware with Server Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#server-function-middleware",
+    "heading": "Server Function Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#available-methods-1",
+    "heading": "Available Methods#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#the-client-method",
+    "heading": "The .client method#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#the-inputvalidator-method",
+    "heading": "The .inputValidator method#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#using-server-function-middleware",
+    "heading": "Using Server Function Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#context-management",
+    "heading": "Context Management#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#providing-context-via-next",
+    "heading": "Providing Context via next#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#sending-client-context-to-the-server",
+    "heading": "Sending Client Context to the Server#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#sending-server-context-to-the-client",
+    "heading": "Sending Server Context to the Client#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#global-middleware",
+    "heading": "Global Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#global-request-middleware",
+    "heading": "Global Request Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#global-server-function-middleware",
+    "heading": "Global Server Function Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#middleware-execution-order",
+    "heading": "Middleware Execution Order#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#request-and-response-modification",
+    "heading": "Request and Response Modification#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#readingmodifying-the-server-response",
+    "heading": "Reading/Modifying the Server Response#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#modifying-the-client-request",
+    "heading": "Modifying the Client Request#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#environment-and-performance",
+    "heading": "Environment and Performance#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#environment-tree-shaking",
+    "heading": "Environment Tree Shaking#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/middleware#middleware-factories",
+    "heading": "Middleware Factories#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/error-boundaries",
+    "heading": "Error Boundaries"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/error-boundaries#error-boundaries-react-start",
+    "heading": "Error Boundaries (React Start)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/error-boundaries#configure-a-default",
+    "heading": "Configure a default#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/error-boundaries#per-route-override",
+    "heading": "Per-route override#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes",
+    "heading": "Server Routes"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#server-routes-and-app-routes",
+    "heading": "Server Routes and App Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#file-route-conventions",
+    "heading": "File Route Conventions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#unique-route-paths",
+    "heading": "Unique Route Paths#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#escaped-matching",
+    "heading": "Escaped Matching#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#pathless-layout-routes-and-break-out-routes",
+    "heading": "Pathless Layout Routes and Break-out Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#nested-directories-vs-file-names",
+    "heading": "Nested Directories vs File-names#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#handling-server-route-requests",
+    "heading": "Handling Server Route Requests#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#defining-a-server-route",
+    "heading": "Defining a Server Route#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#defining-server-route-handlers",
+    "heading": "Defining Server Route Handlers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#simple-handlers",
+    "heading": "Simple handlers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#adding-middleware-to-specific-handlers",
+    "heading": "Adding middleware to specific handlers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#adding-middleware-to-all-handlers",
+    "heading": "Adding middleware to all handlers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#combining-route-level-and-handler-specific-middleware",
+    "heading": "Combining route-level and handler-specific middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#handler-context",
+    "heading": "Handler Context#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#dynamic-path-params",
+    "heading": "Dynamic Path Params#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#wildcardsplat-param",
+    "heading": "Wildcard/Splat Param#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#handling-requests-with-a-body",
+    "heading": "Handling requests with a body#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#responding-with-json",
+    "heading": "Responding with JSON#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#using-the-responsejson-helper-function",
+    "heading": "Using the Response.json helper function#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#responding-with-a-status-code",
+    "heading": "Responding with a status code#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-routes#setting-headers-in-the-response",
+    "heading": "Setting headers in the response#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors",
+    "heading": "Hydration Errors"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors#why-it-happens",
+    "heading": "Why it happens#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors#strategy-1--make-server-and-client-match",
+    "heading": "Strategy 1 — Make server and client match#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors#strategy-2--let-the-client-tell-you-its-environment",
+    "heading": "Strategy 2 — Let the client tell you its environment#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors#strategy-3--make-it-client-only",
+    "heading": "Strategy 3 — Make it client-only#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors#strategy-4--disable-or-limit-ssr-for-the-route",
+    "heading": "Strategy 4 — Disable or limit SSR for the route#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors#strategy-5--last-resort-suppression",
+    "heading": "Strategy 5 — Last resort suppression#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hydration-errors#checklist",
+    "heading": "Checklist#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr",
+    "heading": "Selective Server-Side Rendering (SSR)"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#what-is-selective-ssr",
+    "heading": "What is Selective SSR?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#how-does-this-compare-to-spa-mode",
+    "heading": "How does this compare to SPA mode?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#configuration",
+    "heading": "Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#ssr-true",
+    "heading": "ssr: true#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#ssr-false",
+    "heading": "ssr: false#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#ssr-data-only",
+    "heading": "ssr: 'data-only'#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#functional-form",
+    "heading": "Functional Form#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#inheritance",
+    "heading": "Inheritance#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#fallback-rendering",
+    "heading": "Fallback Rendering#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/selective-ssr#how-to-disable-ssr-of-the-root-route",
+    "heading": "How to disable SSR of the root route?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode",
+    "heading": "SPA mode"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#what-the-heck-is-spa-mode",
+    "heading": "What the heck is SPA mode?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#why-use-start-without-ssr",
+    "heading": "Why use Start without SSR?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#benefits-of-spa-mode",
+    "heading": "Benefits of SPA mode#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#caveats-of-spa-mode",
+    "heading": "Caveats of SPA mode#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#how-does-it-work",
+    "heading": "How does it work?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#configuring-spa-mode",
+    "heading": "Configuring SPA mode#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#use-necessary-redirects",
+    "heading": "Use Necessary Redirects#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#basic-redirects-example",
+    "heading": "Basic Redirects Example#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#allowing-server-functions-and-server-routes",
+    "heading": "Allowing Server Functions and Server Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#shell-mask-path",
+    "heading": "Shell Mask Path#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#prerendering-options",
+    "heading": "Prerendering Options#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#customized-rendering-in-spa-mode",
+    "heading": "Customized rendering in SPA mode#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/spa-mode#dynamic-data-in-your-shell",
+    "heading": "Dynamic Data in your Shell#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/static-prerendering",
+    "heading": "Static Prerendering"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/static-prerendering#prerendering",
+    "heading": "Prerendering#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/static-prerendering#automatic-static-route-discovery",
+    "heading": "Automatic Static Route Discovery#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/static-prerendering#crawling-links",
+    "heading": "Crawling Links#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr",
+    "heading": "Incremental Static Regeneration (ISR)"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#how-isr-works-in-tanstack-start",
+    "heading": "How ISR Works in TanStack Start#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#cache-header-strategies",
+    "heading": "Cache Header Strategies#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#time-based-revalidation",
+    "heading": "Time-Based Revalidation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#understanding-cache-control-directives",
+    "heading": "Understanding Cache-Control Directives#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#isr-with-server-functions",
+    "heading": "ISR with Server Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#using-middleware-for-cache-headers",
+    "heading": "Using Middleware for Cache Headers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#on-demand-revalidation",
+    "heading": "On-Demand Revalidation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#cdn-specific-configuration",
+    "heading": "CDN-Specific Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#cloudflare-workers",
+    "heading": "Cloudflare Workers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#netlify",
+    "heading": "Netlify#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#vercel",
+    "heading": "Vercel#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#combining-isr-with-client-side-caching",
+    "heading": "Combining ISR with Client-Side Caching#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#common-isr-patterns",
+    "heading": "Common ISR Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#blog-posts",
+    "heading": "Blog Posts#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#e-commerce-product-pages",
+    "heading": "E-commerce Product Pages#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#marketing-landing-pages",
+    "heading": "Marketing Landing Pages#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#user-specific-pages",
+    "heading": "User-Specific Pages#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#best-practices",
+    "heading": "Best Practices#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#1-start-conservative",
+    "heading": "1. Start Conservative#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#2-use-etags-for-validation",
+    "heading": "2. Use ETags for Validation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#3-vary-cache-by-query-parameters",
+    "heading": "3. Vary Cache by Query Parameters#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#4-monitor-cache-hit-rates",
+    "heading": "4. Monitor Cache Hit Rates#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#5-combine-with-static-prerendering",
+    "heading": "5. Combine with Static Prerendering#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#debugging-isr",
+    "heading": "Debugging ISR#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#check-cache-headers",
+    "heading": "Check Cache Headers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#test-revalidation",
+    "heading": "Test Revalidation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#monitor-performance",
+    "heading": "Monitor Performance#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/isr#related-resources",
+    "heading": "Related Resources#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-entry-point",
+    "heading": "Server Entry Point"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-entry-point#custom-server-handlers",
+    "heading": "Custom Server Handlers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-entry-point#request-context",
+    "heading": "Request context#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-entry-point#server-configuration",
+    "heading": "Server Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/server-entry-point#cloudflare-workers",
+    "heading": "Cloudflare Workers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls",
+    "heading": "CDN Asset URLs"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#why-runtime-url-rewriting",
+    "heading": "Why Runtime URL Rewriting?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#basic-usage",
+    "heading": "Basic Usage#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#string-prefix",
+    "heading": "String Prefix#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#object-shorthand-prefix--crossorigin",
+    "heading": "Object Shorthand (Prefix + CrossOrigin)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#callback",
+    "heading": "Callback#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#object-form-explicit-cache-control",
+    "heading": "Object Form (Explicit Cache Control)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#caching-behavior",
+    "heading": "Caching Behavior#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#optional-warmup-avoid-first-request-latency",
+    "heading": "Optional Warmup (Avoid First-Request Latency)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#with-headcontent-assetcrossorigin",
+    "heading": "With HeadContent assetCrossOrigin#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#recommended-set-base--for-client-side-navigation",
+    "heading": "Recommended: Set base: '' for Client-Side Navigation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/cdn-asset-urls#what-this-does-not-cover",
+    "heading": "What This Does Not Cover#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/client-entry-point",
+    "heading": "Client Entry Point"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/client-entry-point#error-handling",
+    "heading": "Error Handling#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/client-entry-point#development-vs-production",
+    "heading": "Development vs Production#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting",
+    "heading": "Hosting"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#what-should-i-use",
+    "heading": "What should I use?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#deployment",
+    "heading": "Deployment#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#cloudflare-workers--official-partner",
+    "heading": "Cloudflare Workers ⭐ Official Partner#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#netlify--official-partner",
+    "heading": "Netlify ⭐ Official Partner#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#railway--official-partner",
+    "heading": "Railway ⭐ Official Partner#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#nitro",
+    "heading": "Nitro#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#vercel",
+    "heading": "Vercel#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#nodejs--docker",
+    "heading": "Node.js / Docker#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#bun",
+    "heading": "Bun#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/hosting#appwrite-sites",
+    "heading": "Appwrite Sites#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview",
+    "heading": "Authentication"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#authentication-vs-authorization",
+    "heading": "Authentication vs Authorization#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#architecture-overview",
+    "heading": "Architecture Overview#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#full-stack-authentication-model",
+    "heading": "Full-Stack Authentication Model#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#session-management-patterns",
+    "heading": "Session Management Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#route-protection-architecture",
+    "heading": "Route Protection Architecture#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#state-management-patterns",
+    "heading": "State Management Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#authentication-options",
+    "heading": "Authentication Options#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#-partner-solutions",
+    "heading": "🏢 Partner Solutions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#️-diy-authentication",
+    "heading": "🛠️ DIY Authentication#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#-other-excellent-options",
+    "heading": "🌐 Other Excellent Options#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#partner-solutions",
+    "heading": "Partner Solutions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#workos---enterprise-authentication",
+    "heading": "WorkOS - Enterprise Authentication#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#clerk---complete-authentication-platform",
+    "heading": "Clerk - Complete Authentication Platform#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#examples",
+    "heading": "Examples#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#architecture-decision-guide",
+    "heading": "Architecture Decision Guide#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#choosing-an-authentication-approach",
+    "heading": "Choosing an Authentication Approach#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#security-considerations",
+    "heading": "Security Considerations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#next-steps",
+    "heading": "Next Steps#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication-overview#resources",
+    "heading": "Resources#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication",
+    "heading": "Authentication"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#authentication-approaches",
+    "heading": "Authentication Approaches#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#core-concepts",
+    "heading": "Core Concepts#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#authentication-vs-authorization",
+    "heading": "Authentication vs Authorization#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#essential-building-blocks",
+    "heading": "Essential Building Blocks#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#1-server-functions-for-authentication",
+    "heading": "1. Server Functions for Authentication#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#2-session-management",
+    "heading": "2. Session Management#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#3-authentication-context",
+    "heading": "3. Authentication Context#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#4-route-protection",
+    "heading": "4. Route Protection#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#implementation-patterns",
+    "heading": "Implementation Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#basic-emailpassword-authentication",
+    "heading": "Basic Email/Password Authentication#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#role-based-access-control-rbac",
+    "heading": "Role-Based Access Control (RBAC)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#social-authentication-integration",
+    "heading": "Social Authentication Integration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#password-reset-flow",
+    "heading": "Password Reset Flow#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#security-best-practices",
+    "heading": "Security Best Practices#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#1-password-security",
+    "heading": "1. Password Security#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#2-session-security",
+    "heading": "2. Session Security#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#3-rate-limiting",
+    "heading": "3. Rate Limiting#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#4-input-validation",
+    "heading": "4. Input Validation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#testing-authentication",
+    "heading": "Testing Authentication#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#unit-testing-server-functions",
+    "heading": "Unit Testing Server Functions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#integration-testing",
+    "heading": "Integration Testing#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#common-patterns",
+    "heading": "Common Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#loading-states",
+    "heading": "Loading States#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#remember-me-functionality",
+    "heading": "Remember Me Functionality#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#working-examples",
+    "heading": "Working Examples#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#migration-from-other-solutions",
+    "heading": "Migration from Other Solutions#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#from-client-side-auth",
+    "heading": "From Client-Side Auth#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#from-other-frameworks",
+    "heading": "From Other Frameworks#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#production-considerations",
+    "heading": "Production Considerations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#hosted-vs-diy-comparison",
+    "heading": "Hosted vs DIY Comparison#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#security-considerations",
+    "heading": "Security Considerations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/authentication#next-steps",
+    "heading": "Next Steps#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases",
+    "heading": "Databases"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases#what-should-i-use",
+    "heading": "What should I use?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases#how-simple-is-it-to-use-a-database-with-tanstack-start",
+    "heading": "How simple is it to use a database with TanStack Start?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases#recommended-database-providers",
+    "heading": "Recommended Database Providers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases#what-is-neon",
+    "heading": "What is Neon?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases#what-is-convex",
+    "heading": "What is Convex?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases#what-is-prisma-postgres",
+    "heading": "What is Prisma Postgres?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/databases#documentation--apis",
+    "heading": "Documentation & APIs#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability",
+    "heading": "Observability"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#partner-solution-sentry",
+    "heading": "Partner Solution: Sentry#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#built-in-observability-patterns",
+    "heading": "Built-in Observability Patterns#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#server-function-logging",
+    "heading": "Server Function Logging#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#requestresponse-middleware",
+    "heading": "Request/Response Middleware#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#route-performance-monitoring",
+    "heading": "Route Performance Monitoring#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#health-check-endpoints",
+    "heading": "Health Check Endpoints#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#error-boundaries",
+    "heading": "Error Boundaries#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#performance-metrics-collection",
+    "heading": "Performance Metrics Collection#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#debug-headers-for-development",
+    "heading": "Debug Headers for Development#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#environment-specific-logging",
+    "heading": "Environment-Specific Logging#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#simple-error-reporting",
+    "heading": "Simple Error Reporting#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#external-observability-tools",
+    "heading": "External Observability Tools#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#other-popular-tools",
+    "heading": "Other Popular Tools#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#new-relic-integration",
+    "heading": "New Relic Integration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#opentelemetry-integration-experimental",
+    "heading": "OpenTelemetry Integration (Experimental)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#quick-integration-pattern",
+    "heading": "Quick Integration Pattern#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#best-practices",
+    "heading": "Best Practices#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#development-vs-production",
+    "heading": "Development vs Production#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#performance-monitoring-checklist",
+    "heading": "Performance Monitoring Checklist#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#security-considerations",
+    "heading": "Security Considerations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#future-opentelemetry-support",
+    "heading": "Future OpenTelemetry Support#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/observability#resources",
+    "heading": "Resources#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/path-aliases",
+    "heading": "Path Aliases"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/path-aliases#vite-8",
+    "heading": "Vite 8#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/path-aliases#vite-7-and-earlier",
+    "heading": "Vite 7 and earlier#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration",
+    "heading": "Tailwind CSS Integration"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#tailwind-css-version-4-latest",
+    "heading": "Tailwind CSS Version 4 (Latest)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#install-tailwind-css",
+    "heading": "Install Tailwind CSS#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#configure-the-vite-plugin",
+    "heading": "Configure The Vite Plugin#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#import-tailwind-in-your-css-file",
+    "heading": "Import Tailwind in your CSS file#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#import-the-css-file-in-your-__roottsx-file",
+    "heading": "Import the CSS file in your __root.tsx file#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#use-tailwind-css-anywhere-in-your-project",
+    "heading": "Use Tailwind CSS anywhere in your project#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#tailwind-css-version-3-legacy",
+    "heading": "Tailwind CSS Version 3 (Legacy)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#install-tailwind-css-1",
+    "heading": "Install Tailwind CSS#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#configure-your-template-paths",
+    "heading": "Configure your template paths#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/tailwind-integration#add-the-tailwind-directives-to-your-css-file",
+    "heading": "Add the Tailwind directives to your CSS file#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown",
+    "heading": "Rendering Markdown"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#setting-up-the-markdown-processor",
+    "heading": "Setting Up the Markdown Processor#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#creating-a-markdown-component",
+    "heading": "Creating a Markdown Component#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#method-1-static-markdown-with-content-collections",
+    "heading": "Method 1: Static Markdown with content-collections#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#installation",
+    "heading": "Installation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#configuration",
+    "heading": "Configuration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#vite-integration",
+    "heading": "Vite Integration#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#creating-blog-posts",
+    "heading": "Creating Blog Posts#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#using-the-collection",
+    "heading": "Using the Collection#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#rendering-a-single-post",
+    "heading": "Rendering a Single Post#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#method-2-dynamic-markdown-from-remote-sources",
+    "heading": "Method 2: Dynamic Markdown from Remote Sources#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#creating-a-fetch-utility",
+    "heading": "Creating a Fetch Utility#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#adding-cache-headers",
+    "heading": "Adding Cache Headers#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#using-dynamic-markdown-in-routes",
+    "heading": "Using Dynamic Markdown in Routes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#fetching-directory-contents",
+    "heading": "Fetching Directory Contents#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#adding-syntax-highlighting-with-shiki",
+    "heading": "Adding Syntax Highlighting with Shiki#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/rendering-markdown#summary",
+    "heading": "Summary#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo",
+    "heading": "SEO"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#what-is-seo-really",
+    "heading": "What is SEO, really?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#what-tanstack-start-provides",
+    "heading": "What TanStack Start Provides#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#document-head-management",
+    "heading": "Document Head Management#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#basic-meta-tags",
+    "heading": "Basic Meta Tags#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#dynamic-meta-tags",
+    "heading": "Dynamic Meta Tags#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#open-graph-and-social-sharing",
+    "heading": "Open Graph and Social Sharing#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#canonical-urls",
+    "heading": "Canonical URLs#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#structured-data-json-ld",
+    "heading": "Structured Data (JSON-LD)#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#server-side-rendering",
+    "heading": "Server-Side Rendering#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#static-prerendering",
+    "heading": "Static Prerendering#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#sitemaps",
+    "heading": "Sitemaps#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#built-in-sitemap-generation",
+    "heading": "Built-in Sitemap Generation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#static-sitemap",
+    "heading": "Static Sitemap#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#dynamic-sitemap",
+    "heading": "Dynamic Sitemap#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#robotstxt",
+    "heading": "robots.txt#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#static-robotstxt",
+    "heading": "Static robots.txt#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#dynamic-robotstxt",
+    "heading": "Dynamic robots.txt#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#best-practices",
+    "heading": "Best Practices#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#performance-matters",
+    "heading": "Performance Matters#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#content-is-king",
+    "heading": "Content is King#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#test-your-implementation",
+    "heading": "Test Your Implementation#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/seo#track-your-rankings",
+    "heading": "Track Your Rankings#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo",
+    "heading": "LLM Optimization (LLMO)"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#what-is-llmo",
+    "heading": "What is LLMO?#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#how-llmo-differs-from-seo",
+    "heading": "How LLMO Differs from SEO#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#what-tanstack-start-provides",
+    "heading": "What TanStack Start Provides#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#structured-data-for-ai",
+    "heading": "Structured Data for AI#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#article-schema",
+    "heading": "Article Schema#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#product-schema",
+    "heading": "Product Schema#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#organization-and-website-schema",
+    "heading": "Organization and Website Schema#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#faq-schema",
+    "heading": "FAQ Schema#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#machine-readable-endpoints",
+    "heading": "Machine-Readable Endpoints#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#content-best-practices",
+    "heading": "Content Best Practices#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#clear-factual-statements",
+    "heading": "Clear, Factual Statements#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#hierarchical-structure",
+    "heading": "Hierarchical Structure#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#authoritative-attribution",
+    "heading": "Authoritative Attribution#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#llmstxt",
+    "heading": "llms.txt#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/guide/llmo#monitoring-ai-citations",
+    "heading": "Monitoring AI Citations#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic",
+    "heading": "React Example: Start Basic GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic-react-query",
+    "heading": "React Example: Start Basic React Query GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-clerk-basic",
+    "heading": "React Example: Start Clerk Basic GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic-auth",
+    "heading": "React Example: Start Basic Auth GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-supabase-basic",
+    "heading": "React Example: Start Supabase Basic GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-convex-trellaux",
+    "heading": "React Example: Start Convex Trellaux GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-trellaux",
+    "heading": "React Example: Start Trellaux GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-workos",
+    "heading": "React Example: Start Workos GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-material-ui",
+    "heading": "React Example: Start Material Ui GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic-authjs",
+    "heading": "React Example: Start Basic Authjs GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic-static",
+    "heading": "React Example: Start Basic Static GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/examples/start-basic-cloudflare",
+    "heading": "React Example: Start Basic Cloudflare GitHub CodeSandbox"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file",
+    "heading": "Building a Full Stack DevJokes App with TanStack Start"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#what-youll-learn",
+    "heading": "What You'll Learn#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#prerequisites",
+    "heading": "Prerequisites#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#nice-to-know",
+    "heading": "Nice to know#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#setting-up-a-tanstack-start-project",
+    "heading": "Setting up a TanStack Start Project#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#understanding-the-project-structure",
+    "heading": "Understanding the project structure#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-1-reading-data-from-a-file",
+    "heading": "Step 1: Reading Data From a File#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-11-create-a-json-file-with-jokes",
+    "heading": "Step 1.1: Create a JSON File with Jokes#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-12-create-types-for-our-data",
+    "heading": "Step 1.2: Create Types for Our Data#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-13-create-server-functions-to-read-the-file",
+    "heading": "Step 1.3: Create Server Functions to Read the File#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-14-consume-server-function-on-the-client-side",
+    "heading": "Step 1.4: Consume Server Function on the Client Side#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-2-writing-data-to-a-file",
+    "heading": "Step 2: Writing Data to a File#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-21-create-server-function-to-write-to-the-file",
+    "heading": "Step 2.1: Create Server Function to Write to the File#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-22-adding-a-form-to-add-jokes-to-our-json-file",
+    "heading": "Step 2.2: Adding a Form to Add Jokes to our JSON File#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#step-23-wire-up-the-form-to-the-server-function",
+    "heading": "Step 2.3: Wire Up the Form to the Server Function#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#understanding-how-it-all-works-together",
+    "heading": "Understanding How It All Works Together#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#how-data-flows-through-the-application",
+    "heading": "How Data Flows Through the Application#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#data-flow",
+    "heading": "Data Flow#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#common-issues-and-debugging",
+    "heading": "Common Issues and Debugging#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#server-functions-not-working",
+    "heading": "Server Functions Not Working#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#route-data-not-loading",
+    "heading": "Route Data Not Loading#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#form-submission-issues",
+    "heading": "Form Submission Issues#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#file-readingwriting-issues",
+    "heading": "File Reading/Writing Issues#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/reading-writing-file#conclusion",
+    "heading": "Conclusion#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api",
+    "heading": "Calling an external API using TanStack Start"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#what-youll-learn",
+    "heading": "What You'll Learn#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#prerequisites",
+    "heading": "Prerequisites#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#nice-to-know",
+    "heading": "Nice to know#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#setting-up-a-tanstack-start-project",
+    "heading": "Setting up a TanStack Start Project#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#understanding-the-project-structure",
+    "heading": "Understanding the Project Structure#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#step-1-setup-a-env-file-with-tmdb_auth_token",
+    "heading": "Step 1: Setup a .env file with TMDB_AUTH_TOKEN#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#step-2-defining-data-types",
+    "heading": "Step 2: Defining Data Types#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#step-3-creating-the-route-with-api-fetch-function",
+    "heading": "Step 3: Creating the Route with API Fetch Function#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#step-4-building-the-movie-components",
+    "heading": "Step 4: Building the Movie Components#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#step-5-creating-the-moviespage-component",
+    "heading": "Step 5: Creating the MoviesPage Component#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#understanding-how-it-all-works-together",
+    "heading": "Understanding How It All Works Together#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#step-6-testing-your-application",
+    "heading": "Step 6: Testing Your Application#"
+  },
+  {
+    "url": "https://tanstack.com/start/latest/docs/framework/react/tutorial/fetching-external-api#conclusion",
+    "heading": "Conclusion#"
+  }
+]
