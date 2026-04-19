@@ -28,11 +28,11 @@ console.log(
 );
 ```
 
-Then I copied the output into `tanstack.md`. This is all of the main page URLs.
+Then I copied the output into `tanstack.md`. That file contains all of the main page URLs.
 
-Then I used `scrape-to-js-array-tanstack.js` to create `tanstack-jump-links.json`, which contains all of the fragment/jump links.
+Then I used `scrape-to-json-tanstack.js` to create `tanstack-jump-links.json`, which contains all of the main page URLs and the fragment/jump links.
 
-Then I used `fuse-test-dynamic.js` to try asking the agent where I can read about certain topics.
+Then I used `fuse-search-tool.js` to try asking the agent where I can read about certain topics.
 
 ## Goal
 
@@ -40,4 +40,4 @@ I think the ultimate goal is to turn the search tool into an agent skill. I woul
 
 ## Alternatives
 
-I considered whether llms.txt or Context7 solved this problem already, but I think those tools are more about returning Markdown for the agent to consume.
+I considered whether llms.txt or Context7 solved this problem already, but I think those tools are more about returning Markdown for the agent to consume rather than returning links for devs to visit.
